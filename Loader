@@ -1,5 +1,5 @@
 local games = {
-    [{6839171747}] = "",
+    [{11195100561}] = "",
 }
 
 for ids, url in next, games do
